@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 ﻿1 -(resolvido) Erro no botão entra na pagina de login.
 2 - ambas partes do cadastre sua escola e login não estão centralizadas fora do padrão CSS.
 3 - Input do login estão com uma fonte diferente da aba cadastre sua escola saindo do padrão do site
 4 - Esqueceu senha não funciona.
 5 - Título do cpanel estranho
-6 - No cadastro de usuário a lista de usuários cadastrados não estão funcionando.
+6 - No cadastro de usuário a lista de usuários cadastrados não estão funcionando.(resolvido)
 7 - (reslovido) troca o botão do cadastro de usuário de enviar para salvar
 8 - Cadastro de Curso fora do padrão de cadastros e sem lista de cadastrados
 9 - (resolvido) Cadastro de Disciplina, mudar o botão enviar para salvar
@@ -60,7 +60,7 @@
 34 - 
 35 - 
 36 - 
-37- (Raynna) Cadastro de professore, completar os dois campos de indisponibilidades com os dados do cadastro de horario
+37- (Raynna) Cadastro de professores, completar os dois campos de indisponibilidades com os dados do cadastro de horario
 38 - A lista de indisponibilidade dos professores.
 39 - (Miguel) Cadastro de disciplinas por turma: o campo turma deve buscar as turmas cadastradas, o campo disciplina deve buscar as disciplinas cadastradas, e está faltando um campo professor, que deve buscar os professores cadastrados de acordo com a disciplina escolhida. 
 40 - Arrumar botão salvar do cadastro de usuário
